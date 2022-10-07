@@ -31,6 +31,4 @@
 - Number
 ## How To Use:
 - $ ./Main_menu.sh
-## Contributors:
-- Salma Ehab Tolba
-- Muhammad Abdelhady Muhammad
+
